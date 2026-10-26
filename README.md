@@ -27,7 +27,7 @@ Live price marquee, Bangla calendar date, category navigation, and the daily pri
 ### 🍚 Category Page
 Category-wise product listing with numeric sorting (Default, Low to High, High to Low).
 
-![Category Page](./screenshots/category.png)
+![Category Page](./category.png)
 
 ### 🔐 Sign In
 Email/password authentication with Google and GitHub OAuth options.
