@@ -22,7 +22,7 @@ A modern, responsive commodity and grocery price tracking web application for Ba
 ### 🏠 Home Page
 Live price marquee, Bangla calendar date, category navigation, and the daily price risers section.
 
-![Home Page](./screenshots/home.png)
+![Home Page](./home.png)
 
 ### 🍚 Category Page
 Category-wise product listing with numeric sorting (Default, Low to High, High to Low).
@@ -32,12 +32,12 @@ Category-wise product listing with numeric sorting (Default, Low to High, High t
 ### 🔐 Sign In
 Email/password authentication with Google and GitHub OAuth options.
 
-![Sign In Page](./screenshots/signin.png)
+![Sign In Page](./signin.png)
 
 ### 📊 Product Details (Protected Route)
 Minimum, maximum, and average price summary with a market-wise comparison table.
 
-![Product Details Page](./screenshots/product-details.png)
+![Product Details Page](./product-details.png)
 
 ---
 
