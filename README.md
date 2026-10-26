@@ -17,6 +17,30 @@ A modern, responsive commodity and grocery price tracking web application for Ba
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+Live price marquee, Bangla calendar date, category navigation, and the daily price risers section.
+
+![Home Page](./screenshots/home.png)
+
+### 🍚 Category Page
+Category-wise product listing with numeric sorting (Default, Low to High, High to Low).
+
+![Category Page](./screenshots/category.png)
+
+### 🔐 Sign In
+Email/password authentication with Google and GitHub OAuth options.
+
+![Sign In Page](./screenshots/signin.png)
+
+### 📊 Product Details (Protected Route)
+Minimum, maximum, and average price summary with a market-wise comparison table.
+
+![Product Details Page](./screenshots/product-details.png)
+
+---
+
 ## 🚀 Key Features
 
 1. **Real-time Price Marquee & Live Bangla Calendar Date:**
